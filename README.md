@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/0KdiDRX.png" />
 </p>
 
 <h1>osTicket - Getting Started</h1>
@@ -27,9 +27,9 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 1. Enable Internet Information Services (IIS)
 <p>
-<img src="https://i.ibb.co/QdsBZgW/1.png" alt="IIS Setup"/>
-<img src="https://i.ibb.co/p3b1jcJ/2.png" alt="IIS Setup"/>
-<img src="https://i.ibb.co/QFpHwRf/3.png" alt="IIS Setup"/>
+<img src="https://i.imgur.com/ieZVePk.png" />
+<img src="https://i.imgur.com/mDo6q3u.png" />
+<img src="https://i.imgur.com/cMx6b0p.png" />
 </p>
 
 1. Open **Start**, then search for **Turn Windows Features On or Off**.
@@ -43,7 +43,7 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 2. Install PHP Manager for IIS
 <p>
-<img src="https://i.ibb.co/1G6TxQF/IIS-PHP.png" alt="PHP Manager for IIS"/>
+<img src="https://i.imgur.com/JcmlAEb.png" />
 </p>
 
 - Download PHP Manager for IIS from [this link](https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10).  
@@ -72,8 +72,8 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 6. Install MySQL
 <p>
-<img src="https://i.ibb.co/8YLyHT9/mysql-standard.png" alt="MySQL Installation"/>
-<img src="https://i.ibb.co/TWgVp8p/mysql-password.png" alt="MySQL Password"/>
+<img src="https://i.imgur.com/AKPavfx.png" />
+<img src="https://i.imgur.com/smERVgp.png" />
 </p>
 
 - Download MySQL from [this link](https://downloads.mysql.com/archives/community/?version=5.5.41).  
@@ -95,7 +95,7 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 8. Install osTicket
 <p>
-<img src="https://i.ibb.co/bzx56DR/move-upload-folder-to-wwwroot.png" alt="Move Upload Folder"/>
+<img src="https://i.imgur.com/cwRnabP.png" />
 </p>
 
 1. Download osTicket from [here](https://osticket.com/download/). Extract the ZIP file.  
@@ -106,7 +106,7 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 9. Configure PHP Extensions
 <p>
-<img src="https://i.ibb.co/LtBMmjj/osticket-installer.png" alt="osTicket Installer"/>
+<img src="https://i.imgur.com/y32WygR.png" />
 </p>
 
 1. Open IIS and navigate to **Default Web Site > osTicket**.
@@ -120,7 +120,7 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 10. Configure Permissions
 <p>
-<img src="https://i.ibb.co/724LYVd/ost-config-permissions.png" alt="Set Permissions"/>
+<img src="https://i.imgur.com/4PhysEq.png" />
 </p>
 
 1. Go to `C:\inetpub\wwwroot\osTicket\include`.
@@ -132,8 +132,8 @@ I am using a Windows virtual machine hosted on Microsoft Azure. The VM is named 
 
 ### 11. Set Up the Database
 <p>
-<img src="https://i.ibb.co/HhY94Lf/heidi-SQL-set-up.png" alt="HeidiSQL Setup"/>
-<img src="https://i.ibb.co/68nHN70/heidi-osticket-db-set-up.png" alt="Database Configuration"/>
+<img src="https://i.imgur.com/x7tIwFM.png" />
+<img src="https://i.imgur.com/ECtnC7Q.png" />
 </p>
 
 1. Install HeidiSQL from [here](https://www.heidisql.com/download.php).  
